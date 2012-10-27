@@ -26,3 +26,5 @@ What it does:
   -Changes a setting in /etc/php5/apache2/php.ini
 
 Suggestions welcome.
+
+Further automation? Perhaps preseed the package installation maybe: guidance here - http://wiki.turnkeylinux.org/TKLPatch/Usage_tips_and_tricks
