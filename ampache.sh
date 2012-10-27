@@ -1,4 +1,4 @@
-#!/bin/bash -ef
+#!/bin/bash -ex
 
 #Check for Root
 
